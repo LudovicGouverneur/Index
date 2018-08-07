@@ -23,11 +23,24 @@
 * Today : primitive type, type conversion, unary and binary operation, primitive methods, vars and block scope
 * 9:15
 * Example : https://github.com/elewa-academy/12345-345
+* Example2 : https://github.com/LudovicGouverneur/Snip_Perso1_VarLet.git
 * Methode : 
   * Strings
     * substr
     * includes
 * Expension : https://github.com/elewa-academy/expansions
 * Exercice : unary/binary
-* Vocabulary : statement/expression
+* Vocabulary : 
+  * statement : 
+  * expression :
+  * visible :
+  * declared : "let a;", "var a"
+  * defined : initial assignement
+  * assign : with "=", const can't be assigned twice
+  * hoisted : 
+    * at creation phase => hoisted to global scope
+    * at execution phase
+      * visible to global
+      * by definition also in block scope
+    * defined on global scope
 * Notes :  How to take into account the argument in the "graphic" describing the state
