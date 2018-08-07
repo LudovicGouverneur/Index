@@ -19,3 +19,5 @@
 [Portfolio](https://github.com/LudovicGouverneur/Portfolio.git)
 
 ## Notes
+### Tuesday notes
+* Example : https://github.com/elewa-academy/12345-345
