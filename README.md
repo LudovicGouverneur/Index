@@ -28,4 +28,6 @@
     * substr
     * includes
 * Expension : https://github.com/elewa-academy/expansions
+* Exercice : unary/binary
+* Vocabulary : statement/expression
 * Notes :  How to take into account the argument in the "graphic" describing the state
