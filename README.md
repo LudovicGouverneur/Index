@@ -1,10 +1,10 @@
 # Index
 
 ## Class Practical
-* [Elewa August 2018 Calendar](https://github.com/august-elewa-2018/calendar)
-* [Tools]
+* [Elewa_August_2018_Calendar](https://github.com/august-elewa-2018/calendar)
+* [Tools](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md)
 * [Precourse](https://elewa-academy.github.io/Precourse/)
-* [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference]
+* [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 
 ## JS-reference
 [JS-reference](https://github.com/LudovicGouverneur/JS-Reference.git)
