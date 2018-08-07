@@ -7,7 +7,8 @@
 * [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 
 ## JS-reference ()
-__Description__ : where snippets/piece of code are studied and built
+__Description__ : *where snippets/piece of code are studied and built*  
+
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
 ## Expansions  (single expressions)
