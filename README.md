@@ -6,8 +6,9 @@
 * [Precourse](https://elewa-academy.github.io/Precourse/)
 * [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 
-## JS-reference (snippets/piece of code)
-[JS-reference](https://github.com/LudovicGouverneur/JS-Reference.git)
+## JS-reference ()
+__Description__ : where snippets/piece of code are studied and built
+[Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
 ## Expansions  (single expressions)
 
