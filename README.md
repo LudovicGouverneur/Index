@@ -10,12 +10,13 @@
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 __Description__ : *where snippets/piece of code are studied and built*  
 
-## Expansions  (single expressions)
-[Link](https://github.com/LudovicGouverneur/JS-Reference.git)
+## Expansions
+[Link](https://github.com/LudovicGouverneur/expansions.git)
 __Description__ : *where single line expression are studied*  
 
 ## Exercices
 [Exercices](https://github.com/LudovicGouverneur/Exercices.git)
+__Description__ : *where other kind of practise go"*
 
 ## Vocabulaty
 [Vocabulary](https://github.com/LudovicGouverneur/Vocabulary.git)
@@ -35,19 +36,6 @@ __Description__ : *where single line expression are studied*
     * includes
 * Expension : https://github.com/elewa-academy/expansions
 * Exercice : unary/binary
-* Vocabulary : 
-  * statement : 
-  * expression :
-  * visible :
-  * declared : "let a;", "var a"
-  * defined : initial assignement
-  * assign : with "=", const can't be assigned twice
-  * hoisted : 
-    * at creation phase => hoisted to global scope
-    * at execution phase
-      * visible to global
-      * by definition also in block scope
-    * defined on global scope
   * Some stuff to practice : 
    * https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html
    * https://elewa-academy.github.io/parsons/examples-to-study/scope-and-control-flow.html
