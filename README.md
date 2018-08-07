@@ -21,3 +21,7 @@
 ## Notes
 ### Tuesday notes
 * Example : https://github.com/elewa-academy/12345-345
+* Methode : 
+  * Strings
+    * substr
+    * includes
