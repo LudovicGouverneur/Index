@@ -6,10 +6,10 @@
 * [Precourse](https://elewa-academy.github.io/Precourse/)
 * [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 
-## JS-reference
+## JS-reference (snippets/piece of code)
 [JS-reference](https://github.com/LudovicGouverneur/JS-Reference.git)
 
-## Expansions
+## Expansions  (single expressions)
 
 ## Exercices
 [Exercices](https://github.com/LudovicGouverneur/Exercices.git)
@@ -45,4 +45,7 @@
       * visible to global
       * by definition also in block scope
     * defined on global scope
+  * Some stuff to practice : 
+   * https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html
+   * https://elewa-academy.github.io/parsons/examples-to-study/scope-and-control-flow.html
 * Notes :  How to take into account the argument in the "graphic" describing the state
