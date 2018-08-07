@@ -20,8 +20,12 @@
 
 ## Notes
 ### Tuesday notes
+* Today : primitive type, type conversion, unary and binary operation, primitive methods, vars and block scope
+* 9:15
 * Example : https://github.com/elewa-academy/12345-345
 * Methode : 
   * Strings
     * substr
     * includes
+* Expension : https://github.com/elewa-academy/expansions
+* Notes :  How to take into account the argument in the "graphic" describing the state
