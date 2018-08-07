@@ -8,14 +8,17 @@
 
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
+
 __Description__ : *where snippets/piece of code are studied and built*  
 
 ## Expansions
 [Link](https://github.com/LudovicGouverneur/expansions.git)
+
 __Description__ : *where single line expression are studied*  
 
 ## Exercices
-[Exercices](https://github.com/LudovicGouverneur/Exercices.git)
+[Link](https://github.com/LudovicGouverneur/Exercices.git)
+
 __Description__ : *where other kind of practise go"*
 
 ## Vocabulaty
