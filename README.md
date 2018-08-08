@@ -4,7 +4,7 @@
 * [Elewa_August_2018_Calendar](https://github.com/august-elewa-2018/calendar/wiki/week-1-notes)
 * [Tools](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md)
   * [Pythontutor](http://www.pythontutor.com/visualize.html#mode=edit)
-  * [replit](http://www.pythontutor.com/visualize.html#mode=edit)
+  * [replit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
 * [Precourse](https://elewa-academy.github.io/Precourse/)
 * [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 
