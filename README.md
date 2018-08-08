@@ -47,11 +47,11 @@ __Description__ : *where other kind of practise go"*
  * swap value
  * assignement diff of conventional "=" understanding
  * Objects : 
-  * Anything that is not a primitive
-  * {key : value}
-  * __O__ bject => built into JS
-  * OOP ; bundling related data w/ + function (methods) to manipulate it
-   * Classical US prototypical (very important)
-    * Classical inheritance (more felxible) OOP
-    * Prototypical inheritance (more felxible) OOP
- 
+    * Anything that is not a primitive
+    * {key : value}
+    * __O__ bject => built into JS
+    * OOP ; bundling related data w/ + function (methods) to manipulate it
+     * Classical US prototypical (very important)
+      * Classical inheritance (more felxible) OOP
+      * Prototypical inheritance (more felxible) OOP
+
