@@ -46,6 +46,7 @@ __Description__ : *where other kind of practise go"*
  * src => creation/building => execution/runtime => final state/ creation or build, will be more tricky iin a couple of weeks
  * swap value
  * assignement diff of conventional "=" understanding
+ * storing US reference : https://github.com/elewa-academy/reference-vs-value.git
  * Objects : 
     * Anything that is not a primitive
     * {key : value}
