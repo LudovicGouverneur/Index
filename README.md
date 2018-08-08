@@ -43,3 +43,5 @@ __Description__ : *where other kind of practise go"*
    * https://elewa-academy.github.io/parsons/examples-to-study/variables-and-types.html
    * https://elewa-academy.github.io/parsons/examples-to-study/scope-and-control-flow.html
 * Notes :  How to take into account the argument in the "graphic" describing the state
+
+### Wednesday notes
