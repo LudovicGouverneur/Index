@@ -43,3 +43,7 @@ __Description__ : *where other kind of practise go"*
 * Notes :  How to take into account the argument in the "graphic" describing the state
 
 ### Wednesday notes
+ * src => creation/building => execution/runtime => final state/ creation or build, will be more tricky iin a couple of weeks
+ * swap value
+ * assignement diff of conventional "=" understanding
+ 
