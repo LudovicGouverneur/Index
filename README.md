@@ -51,4 +51,7 @@ __Description__ : *where other kind of practise go"*
   * {key : value}
   * __O__ bject => built into JS
   * OOP ; bundling related data w/ + function (methods) to manipulate it
+   * Classical US prototypical (very important)
+    * Classical inheritance (more felxible) OOP
+    * Prototypical inheritance (more felxible) OOP
  
