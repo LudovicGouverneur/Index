@@ -26,4 +26,4 @@ __Description__ : *where other kind of practise go"*
 [Portfolio](https://github.com/LudovicGouverneur/Portfolio.git)
 
 ## Notes
-[on the fly notes]()
+[on the fly notes](https://github.com/LudovicGouverneur/Notes.git)
