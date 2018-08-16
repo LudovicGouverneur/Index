@@ -19,7 +19,7 @@ __Description__ : *where snippets/piece of code are studied and built*
 
 __Description__ : *where other kind of practise go"*
 
-## Vocabulaty
+## Vocabulary
 [Vocabulary](https://github.com/LudovicGouverneur/Vocabulary.git)
 
 ## Portfolio
