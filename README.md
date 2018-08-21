@@ -27,3 +27,12 @@ __Description__ : *where other kind of practise go"*
 
 ## Notes
 [on the fly notes](https://github.com/LudovicGouverneur/Notes.git)
+
+## Visualization : 
+###Canvas
+
+###Visjs
+ [Official Website](http://visjs.org)
+###dat.gui : 
+ [Official Github](https://github.com/dataarts/dat.gui)
+###D3JS
