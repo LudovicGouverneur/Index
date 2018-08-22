@@ -29,14 +29,14 @@ __Description__ : *where other kind of practise go"*
 [on the fly notes](https://github.com/LudovicGouverneur/Notes.git)
 
 ## Visualization : 
-### Canvas
+### 1. Canvas
 
-### Aframe
+### 2. Aframe
 
-### Threejs
+### 3. Threejs
 
-### Visjs
+### 4 Visjs
  [Official Website](http://visjs.org)
-### dat.gui : 
+### 5. dat.gui : 
  [Official Github](https://github.com/dataarts/dat.gui)
-### D3JS
+### 6. D3JS
