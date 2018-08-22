@@ -31,8 +31,8 @@ __Description__ : *where other kind of practise go"*
 ## Visualization : 
 ###Canvas
 
-###Visjs
+### Visjs
  [Official Website](http://visjs.org)
-###dat.gui : 
+### dat.gui : 
  [Official Github](https://github.com/dataarts/dat.gui)
-###D3JS
+### D3JS
