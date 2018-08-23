@@ -14,6 +14,9 @@
     * [Object]
     * [datascience] 
 * [Network](https://github.com/LudovicGouverneur/Network.git)
+* [Elewa Janke](https://jankelearning.github.io/preview/)
+* [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
+
 ## Oeuvres inachevées
 * Finding html objects
 * base URI
