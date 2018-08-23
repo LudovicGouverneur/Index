@@ -5,6 +5,7 @@
 * [Tools](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md)
   * [Pythontutor](http://www.pythontutor.com/visualize.html#mode=edit)
   * [replit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
+  * [Chrome Dev]
 * [Precourse](https://elewa-academy.github.io/Precourse/)
 * [MarkDown Reference](https://en.support.wordpress.com/markdown-quick-reference)
 * [Learn Github](https://github.com/LudovicGouverneur/Learn-github.git)
