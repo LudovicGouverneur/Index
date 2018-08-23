@@ -14,6 +14,9 @@
     * [Object]
     * [datascience] 
 * [Network](https://github.com/LudovicGouverneur/Network.git)
+## Oeuvres inachevées
+* Finding html objects
+* base URI
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
