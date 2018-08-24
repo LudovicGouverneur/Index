@@ -21,9 +21,7 @@
 * [Elewa Janke](https://jankelearning.github.io/preview/)
 * [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
 
-## Oeuvres inachevées
-* Finding html objects
-* base URI
+
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
@@ -43,6 +41,12 @@ __Description__ : *where other kind of practise go"*
 ## Notes
 [on the fly notes](https://github.com/LudovicGouverneur/Notes.git)
 
+## Oeuvres inachevées
+* Finding html objects
+* base URI
+* viewport
+* fps : That means that if you want your page to have good response (lots of fps), then the JS has to be relatively inexpensive
+* 
 ## Visualization : 
 ### 1. Canvas
 
