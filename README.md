@@ -13,6 +13,10 @@
     * [The dom](https://github.com/elewa-academy/the-dom)
     * [Object]
     * [datascience] 
+* Great References : 
+    * [javascript.info](https://javascript.info/)
+    * [w3school](https://w3schools.com
+* Others
 * [Network](https://github.com/LudovicGouverneur/Network.git)
 * [Elewa Janke](https://jankelearning.github.io/preview/)
 * [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
