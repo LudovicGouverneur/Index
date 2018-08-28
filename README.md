@@ -17,12 +17,14 @@
     * [javascript.info](https://javascript.info/)
     * [w3school](https://w3schools.com
 * Others
-* [Network](https://github.com/LudovicGouverneur/Network.git)
-* [Elewa Janke](https://jankelearning.github.io/preview/)
-* [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
-* [Editor OpenStreetMap](https://josm.openstreetmap.de/)
-* [OpenStreetMap](https://www.openstreetmap.org/#map=8/49.925/5.010)
-
+    * [Network](https://github.com/LudovicGouverneur/Network.git)
+    * [Elewa Janke](https://jankelearning.github.io/preview/)
+    * [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
+    * [Editor OpenStreetMap](https://josm.openstreetmap.de/)
+    * [OpenStreetMap](https://www.openstreetmap.org/#map=8/49.925/5.010)
+* Formations : 
+    * [Elewa]
+    * [Actiris/dorifor](http://www.dorifor.be/formation/data-analyst-7891.html)
 
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
