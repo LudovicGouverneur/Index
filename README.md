@@ -20,6 +20,8 @@
 * [Network](https://github.com/LudovicGouverneur/Network.git)
 * [Elewa Janke](https://jankelearning.github.io/preview/)
 * [Elewa code network](https://github.com/jankeLearning/preview/tree/master/book_source)
+* [Editor OpenStreetMap](https://josm.openstreetmap.de/)
+* [OpenStreetMap](https://www.openstreetmap.org/#map=8/49.925/5.010)
 
 
 ## JS-reference  
