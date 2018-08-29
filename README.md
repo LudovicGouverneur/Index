@@ -1,7 +1,7 @@
 # Index
 
 ## Class Practical
-* [Elewa_August_2018_Calendar](https://github.com/august-elewa-2018/calendar/wiki/week-2-notes)
+* [Elewa_August_2018_Calendar](https://github.com/august-elewa-2018/calendar/wiki)
 * [Tools](https://github.com/elewa-academy/js-tool-kit/blob/master/learning-environments.md)
   * [Pythontutor](http://www.pythontutor.com/visualize.html#mode=edit)
   * [replit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)
