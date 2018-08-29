@@ -26,6 +26,16 @@
     * [Elewa]
     * [Actiris/dorifor](http://www.dorifor.be/formation/data-analyst-7891.html)
 
+* Libraries : 
+  * Functional programming
+     * lodash : 
+        * [official website]("https://lodash.com/")
+        * [Elewa Practice]
+  * Testing
+     * ?
+     * Exercice : building our own testing lirary
+     * Is 13 : really good study. Single purpose library
+     
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
