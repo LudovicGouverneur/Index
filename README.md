@@ -1,4 +1,4 @@
-# Index
+# Index_Javascript
 
 ## Class Practical
 * [Elewa_August_2018_Calendar](https://github.com/august-elewa-2018/calendar/wiki)
