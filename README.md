@@ -35,7 +35,8 @@
      * ?
      * Exercice : building our own testing lirary
      * Is 13 : really good study. Single purpose library
-     
+* [General Strategy]("https://github.com/LudovicGouverneur/General-Strategy.git")
+
 ## JS-reference  
 [Link](https://github.com/LudovicGouverneur/JS-Reference.git)
 
